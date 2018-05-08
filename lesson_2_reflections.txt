@@ -26,3 +26,8 @@ The diagrams help me have a better understanding of the path that a commit will 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches together combines the changes made in both branches.  It is represented in the diagram the way that it is becuase the most recent commit formed by the merge leads back to all the commits from both branches in the merge.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A pro of the automatic merging is that it is a lot faster and eliminates the user error that may happen in trying to do it manually.  A con is that there are sometimes conflicts in the two branches being merged that Git can't resolve on its own.
