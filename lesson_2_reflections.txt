@@ -11,3 +11,8 @@ The staging area is different because things can be moved in and out of it witho
 How can you use the staging area to make sure you have one commit per logical change?
 
 I can use git diff to compare the staging area to my working directory to see what changes I'm preparing to commit, and I can use git diff --staged to see how the changes I'm preparing to commit compare to the most recent commit in the repository.  This will help me figure out if the commit is logical.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If I'm working on a set of recipes that contain meat, but I want to make some vegetarian or vegan versions, it would be helpful to have branches.  Branches would help because they would allow me to make changes to the recipes to make them vegetarian or vegan without confusing it with changes I may continue to make to the recipe with meat in it.
