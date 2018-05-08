@@ -21,3 +21,8 @@ If I'm working on a set of recipes that contain meat, but I want to make some ve
 How do the diagrams help you visualize the branch structure?
 
 The diagrams help me have a better understanding of the path that a commit will be on depending on if I commit it in the master branch tip, another branch tip, or not on a tip in which case I will need to create a new branch or the commit will not be reachable.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together combines the changes made in both branches.  It is represented in the diagram the way that it is becuase the most recent commit formed by the merge leads back to all the commits from both branches in the merge.
