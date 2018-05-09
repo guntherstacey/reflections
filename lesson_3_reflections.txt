@@ -26,4 +26,4 @@ I don't know how I would collaborate.  I guess I would have to use file sharing,
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+I would want to make changes in a separate branch if I am collaborating with someone else on the project.  That way, they can review the changes before I incorporate them into the master branch.  Making changes directly in the master branch can save time if you don't have to worry about someone else approving your changes.
