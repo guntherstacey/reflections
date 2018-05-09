@@ -21,7 +21,7 @@ It allows you to look at and work with a copy of the remote locally without comm
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I don't know how I would collaborate.  I guess I would have to use file sharing, but it seems like it would be a lot more cumbersome.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
